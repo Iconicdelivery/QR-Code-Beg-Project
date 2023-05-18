@@ -1,0 +1,23 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+h1, p{
+    font-style: normal;
+    text-align: center;
+
+}
+
+.container{
+    display: block;
+    margin: 0 auto;
+    height: 300px;
+    width: 300px;
+    background-color: white;
+}
+.container img {
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+}
